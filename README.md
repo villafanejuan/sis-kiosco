@@ -1,4 +1,4 @@
-# Sistema de Kiosco Profesional v2.0
+# Sistema de Kiosco Profesional v1.0
 
 Sistema completo de gestión para kioscos con arquitectura MVC, control de caja, gestión de stock, ventas, reportes y auditoría completa.
 
